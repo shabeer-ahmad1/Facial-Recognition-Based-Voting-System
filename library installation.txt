@@ -1,0 +1,14 @@
+For CV2 error:
+	Open the terminal by pressing Alt + F12 and then type the below cammand
+	pip install opencv-contrib-python
+
+For PIL
+	search Pillow-PIL from settings and install it
+
+For Pandas
+	Search pandas from settings not panda and install it. pandas is with "s"
+
+For Twilio
+	search Twilio from settings and install it
+	
+	
